@@ -17,3 +17,6 @@ this is intro
 ## Deployment
 
 This is deployment this is a very simple file and learning to type.
+
+## copyright
+this is fir git training
