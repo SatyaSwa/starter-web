@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 this is intro
 
 ##how to contribute
- this is contribute
+ this is contribute,please fork this repository and then issue pullrequest
 ## Deployment
 
 This is deployment this is a very simple file and learning to type.
