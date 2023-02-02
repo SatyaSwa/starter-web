@@ -10,7 +10,7 @@ Sample website with plenty of files for demos.adding a new line
 
 ##introduction
 
-this is intro
+this is intro ,all rights reserved
 
 ##how to contribute
  this is contribute,please fork this repository and then issue pullrequest
